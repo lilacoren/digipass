@@ -3,7 +3,7 @@ package main;
 import java.sql.DriverManager;
 /**
  * Global project settings used for DigiPass
- * @author aeilim
+ * @author Eilim Adrian, Eviatar Levi & Lilac Orenshtein
  *
  */
 public class Settings {

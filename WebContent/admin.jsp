@@ -74,6 +74,13 @@
 						href="/digipass/admin?cmd=delete">Delete Database</a>
 				</div>
 			</div>
+		
 		</section>
+		<div id=dataListDiv>
+			<datalist id= dlSQLTable>
+			
+			</datalist>
+		</div>
+		</div>
 </body>
 </html>
